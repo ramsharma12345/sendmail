@@ -2,7 +2,10 @@
 
 Using this admin and the manager will be able to send the random email to user
  - CSV browse option
- - 3 fileds fistname, lastname, email
+ - 3 fileds
+    - fistname
+    - lastname
+    -  email
  - Admin can enable/disable plugin as per the requirements
  - Admin can see the list of users for which email have been sent
  - Admin can be see the list of users
